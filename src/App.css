@@ -1,0 +1,22 @@
+body {
+	background-color: #2DE2EF;
+}
+
+li {
+	list-style: none;
+	background-color: #FC6471;
+	margin: 10px;
+	padding: 10px;
+	width: 100px;
+	align-content: center;
+	border: 5px solid #08B2E3;
+	border-radius: 20px;
+	text-align: center;
+	font-family: 'Cabin Sketch', cursive;
+	font-size: 35px;
+	cursor: pointer;
+}
+
+ul {
+	display: flex;
+}
